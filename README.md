@@ -1,6 +1,8 @@
-### Hi there 👋, my name is Promise
-#### Freelance WordPress Developer And Front-End Developer
 ![Freelance Wordpress Developer And Front-End Developer](https://media-exp1.licdn.com/dms/image/C5616AQEDGFB4Dp1GOA/profile-displaybackgroundimage-shrink_200_800/0/1639089874336?e=1645056000&v=beta&t=b72XJx37bHNObvx4leU3dzdL2ChI4Ye2VaHTreGSg8Q)
+
+
+# Hi there 👋, my name is Promise
+## Freelance WordPress Developer And Front-End Developer
 
 I help small businesses, agencies and eCommerce brands achieve a high presence online, brand exposure, and also generate maximum profit by providing them with high-quality WordPress websites designed for their specific needs and target market
 
