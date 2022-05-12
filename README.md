@@ -1,4 +1,4 @@
-![Freelance Wordpress Developer And Front-End Developer]
+
 
 
 # Hi there 👋, my name is Promise
